@@ -1,0 +1,4 @@
+Este sistema permite organizar tarefas do dia a dia.
+Agora o sistema também permite editar tarefas.
+Sistema também permite excluir tarefas.
+Sistema agora possui melhorias na interface.
